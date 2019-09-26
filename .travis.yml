@@ -15,7 +15,7 @@ script:
 
 deploy:
   provider: pages
-  repo: arc-lessons/intro-testing
+  repo: arc-lessons/intro-linux
   target-branch: gh-pages
   local-dir: html
   github_token: $GITHUB_TOKEN
