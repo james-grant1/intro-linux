@@ -1,6 +1,6 @@
 ## LICENSE
 
-This content was developed by James Grant and Jack Betteridge, University of Bath.
+This course was adapted by James Grant and Jack Betteridge, University of Bath.
 This material, both content and appearance is derived from work that is 
 [Copyright © Software Carpentry](http://software-carpentry.org/)
 made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). 
