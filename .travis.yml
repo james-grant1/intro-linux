@@ -4,7 +4,8 @@ python:
   - 3.7
 
 install:
-  - pip install nbfancy 
+  - pip install nbfancy
+  - pip install --upgrade nbfancy
 
 script:
   - nbfancy configure -y all_magic 
@@ -13,7 +14,7 @@ script:
 
 deploy:
   provider: pages
-  repo: arc-lessons/intro-hpc 
+  repo: arc-lessons/intro-linux
   target-branch: gh-pages
   local-dir: html
   github_token: $GITHUB_TOKEN
