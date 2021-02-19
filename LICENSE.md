@@ -13,7 +13,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 Under the following terms:
 
-- **Attribution** --- You must give appropriate credit (mentioning that your work is derived from work that is Copyright © James Grant, [the material from which it was derived](https://github.com/arc-lessons/intro-linux/README.md), and, where practical linking to https://github.com/arc-lessons/intro-data-plotting), provide a [link to the license][cc-by-human], and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **Attribution** --- You must give appropriate credit (mentioning that your work is derived from work that is Copyright © James Grant, [the material from which it was derived](https://github.com/arc-lessons/intro-linux/README.md), and, where practical linking to https://github.com/arc-lessons/intro-linux), provide a [link to the license][cc-by-human], and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 - **No additional restrictions** --- You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. With the understanding that:
 
 Notices:
